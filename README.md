@@ -7,7 +7,7 @@
 
 - 📗 I’m currently learning **Python, Tableau, SQL**
 
-- All of m project are available at [Data Visualization](https://public.tableau.com/app/profile/anurag.negi6537/vizzes)
+- All of m project are available at [Data Visualization](https://public.tableau.com/app/profile/anurag.negi6537/vizzes), [GitHub](https://github.com/anuragnegi9/anuragnegi9)
 
 - 💬 Ask me about **Python, Libraries - Pandas, Numpy, Seaborn, Matplotlib, Plotly, Data visualization Tool - Tableau, MySQL**
 
