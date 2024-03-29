@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragnegi9&label=Profile%20views&color=0e75b6&style=flat" alt="anuragnegi9" /> </p>
 
-- 📗 I’m currently learning **Tableau, SQL**
+- 📗 I’m currently learning **Python, Tableau, SQL**
 
 - All of m project are available at [Data Visualization](https://public.tableau.com/app/profile/anurag.negi6537/vizzes)
 
-- 💬 Ask me about **Python, Libraries - Pandas, Numpy, Seaborn, Matplotlib, Plotly, Data visualization Tool - Tableau**
+- 💬 Ask me about **Python, Libraries - Pandas, Numpy, Seaborn, Matplotlib, Plotly, Data visualization Tool - Tableau, MySQL**
 
 - 📫 How to reach me **anuragnegi7455@gmail.com**
 
