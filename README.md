@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Anurag Negi</h1>
-<h3 align="center">Your Data. Our Canvas. Beautiful Results.</h3>
+<h3 align="center">FrontEnd Developer with good knowledge and skills</h3>
 
 <img align="right" src = "https://user-images.githubusercontent.com/31332352/119162644-9ec37580-ba28-11eb-8e73-b76149197a1e.gif" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragnegi9&label=Profile%20views&color=0e75b6&style=flat" alt="anuragnegi9" /> </p>
 
-- 📗 I’m currently learning **Python, Tableau, SQL**
+- 📗 I’m currently learning **HTML, CSS, JS, REACT.JS, TAILWIND**
 
 - All of m project are available at [Data Visualization](https://public.tableau.com/app/profile/anurag.negi6537/vizzes), [GitHub](https://github.com/anuragnegi9/anuragnegi9)
 
-- 💬 Ask me about **Python, Libraries - Pandas, Numpy, Seaborn, Matplotlib, Plotly, Data visualization Tool - Tableau, MySQL**
+- 💬 Ask me about **HTML, CSS, JS, REACT.JS, TAILWIND**
 
 - 📫 How to reach me **anuragnegi7455@gmail.com**
 
